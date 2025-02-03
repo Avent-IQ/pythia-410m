@@ -68,7 +68,6 @@ Repository Structure
     ├── tokenizer/           # Tokenizer configuration and vocabulary files
     ├── model.safensors/     # Fine Tuned Model
     ├── README.md            # Model documentation
-    └── LICENSE              # License for the repository
 
 Limitations
 -----------
